@@ -9,7 +9,7 @@ This repository hosts a Gradio-based application for audio processing that perfo
 
 ## Prerequisites
 Ensure you have the following installed:
-- Python 3.8 or later
+- Python 3.10 or later
 - pip (Python package manager)
 
 ## Installation
@@ -18,7 +18,7 @@ Follow these steps to set up and run the application:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Abduaziz3455/stt_ner_pipeline.git
-   cd gradio_app
+   cd stt_ner_pipeline
    ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -49,7 +49,7 @@ Follow these steps to set up and run the application:
 
 ## File Structure
 ```
- gradio_app/
+ stt_ner_pipeline/
  ├── .gradio            # Gradio-specific configurations
  ├── .env               # Environment variables (optional)
  ├── .gitignore         # Git ignore file
@@ -70,7 +70,7 @@ Follow these steps to set up and run the application:
 4. View the transcription and extracted named entities.
 
 ### Sample Screenshot:
-![Gradio App Screenshot](https://drive.google.com/file/d/1-6phuLv-ryM-5auMGfQEAkJiBV5dnSuM/view?usp=sharing)
+![Gradio App Screenshot](https://github.com/user-attachments/assets/789e5eda-0a6e-49b8-954d-b6ed5a6195cb)
 
 ## Troubleshooting
 - **Models not downloading:** Ensure your internet connection is active.
