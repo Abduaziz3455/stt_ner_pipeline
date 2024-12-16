@@ -70,7 +70,7 @@ Follow these steps to set up and run the application:
 4. View the transcription and extracted named entities.
 
 ### Sample Screenshot:
-![Gradio App Screenshot](https://drive.google.com/file/d/1-6phuLv-ryM-5auMGfQEAkJiBV5dnSuM/view)
+![Gradio App Screenshot](https://github.com/user-attachments/assets/789e5eda-0a6e-49b8-954d-b6ed5a6195cb)
 
 ## Troubleshooting
 - **Models not downloading:** Ensure your internet connection is active.
