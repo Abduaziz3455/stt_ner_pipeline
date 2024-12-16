@@ -9,7 +9,7 @@ This repository hosts a Gradio-based application for audio processing that perfo
 
 ## Prerequisites
 Ensure you have the following installed:
-- Python 3.8 or later
+- Python 3.10 or later
 - pip (Python package manager)
 
 ## Installation
@@ -70,7 +70,7 @@ Follow these steps to set up and run the application:
 4. View the transcription and extracted named entities.
 
 ### Sample Screenshot:
-![Gradio App Screenshot](https://drive.google.com/file/d/1-6phuLv-ryM-5auMGfQEAkJiBV5dnSuM/view?usp=sharing)
+![Gradio App Screenshot](https://drive.google.com/file/d/1-6phuLv-ryM-5auMGfQEAkJiBV5dnSuM/view)
 
 ## Troubleshooting
 - **Models not downloading:** Ensure your internet connection is active.
