@@ -1,0 +1,8 @@
+transformers
+seqeval
+accelerate
+soundfile
+librosa
+gradio
+huggingface_hub
+noisereduce
