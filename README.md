@@ -18,7 +18,7 @@ Follow these steps to set up and run the application:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Abduaziz3455/stt_ner_pipeline.git
-   cd gradio_app
+   cd stt_ner_pipeline
    ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -49,7 +49,7 @@ Follow these steps to set up and run the application:
 
 ## File Structure
 ```
- gradio_app/
+ stt_ner_pipeline/
  ├── .gradio            # Gradio-specific configurations
  ├── .env               # Environment variables (optional)
  ├── .gitignore         # Git ignore file
